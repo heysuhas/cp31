@@ -1,2 +1,2 @@
 # cp31
-Solutions for the CP-31 Sheet by TLE.
+Solutions for the CP-31 Sheet by TLE in C++
